@@ -1,0 +1,11 @@
+org.eclipse.lyo.client.exception
+org.eclipse.lyo.client.oslc
+org.eclipse.lyo.client.oslc.jazz
+org.eclipse.lyo.client.oslc.resources
+org.eclipse.lyo.oslc4j.core
+org.eclipse.lyo.oslc4j.core.annotation
+org.eclipse.lyo.oslc4j.core.exception
+org.eclipse.lyo.oslc4j.core.model
+org.eclipse.lyo.oslc4j.provider.jena
+org.eclipse.lyo.oslc4j.provider.json4j
+pk

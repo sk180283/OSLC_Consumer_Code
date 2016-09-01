@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/prateek_khare/Desktop/jersey-archive-1.19.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.lyo.client.java"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.lyo.client.java.sample"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.lyo.oslc4j.core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.lyo.oslc4j.provider.jena"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.lyo.oslc4j.provider.json4j"/>
+	<classpathentry kind="lib" path="/org.eclipse.lyo.client.java/src/main/java/org"/>
+	<classpathentry kind="lib" path="/org.eclipse.lyo.client.java.sample/src/main/java/org"/>
+	<classpathentry kind="lib" path="/org.eclipse.lyo.oslc4j.core/src/main/java/org"/>
+	<classpathentry kind="lib" path="/org.eclipse.lyo.oslc4j.provider.jena/src/main/java/org"/>
+	<classpathentry kind="lib" path="/org.eclipse.lyo.oslc4j.provider.json4j/src/main/java/org"/>
+	<classpathentry kind="lib" path="D:/OSLC_CODE_YASUR_1/org.eclipse.lyo.client.java"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc4j-core-3.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc4j-core-3.0.0-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc4j-core-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc-java-client-3.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc-java-client-3.0.0-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/oslc-java-client-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/wink-client-1.2.1-incubating.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/wink-common-1.2.1-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prateek_khare/Desktop/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/kepler_workspace/TestConsumer2/WebContent/WEB-INF/lib/hk2-utils-2.1.44.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
